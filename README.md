@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PJ Clinton</h1>
-<h3 align="center">Aspiring software developer from Austin, TX</h3>
+<h3 align="center">A software developer in Austin, TX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pj-clinton&label=Profile%20views&color=0e75b6&style=flat" alt="pj-clinton" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Vue.js / Flask / deployment and database structure**
 
-- 👯 I’m looking to collaborate on **any full-stack projects.**
+- 👯 I’m looking to collaborate on **full-stack projects.**
 
-- 🤝 I’m looking for help with **learning new skills for better development work flow.**
+- 🤝 I’m looking for help with **learning new skills.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pj-clinton](https://github.com/pj-clinton)
 
