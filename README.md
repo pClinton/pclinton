@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm PJ Clinton</h1>
 <h3 align="center">A software developer in Austin, TX</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pj-clinton&label=Profile%20views&color=0e75b6&style=flat" alt="pj-clinton" /> </p>
-<a href="https://www.linkedin.com/in/pjclinton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pj-clinton&label=Profile%20views&color=0e75b6&style=flat" alt="pj-clinton" /> </p><a href="https://www.linkedin.com/in/pjclinton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 - 🔭 I’m currently working on [my first project using the Vue.js framework.](https://github.com/pj-clinton/vue-first_project)
 
