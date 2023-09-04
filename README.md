@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm PJ Clinton</h1>
-<h3 align="center">A software developer based in Austin, TX.</h3>
+<h3 align="center">A web developer based in Austin, TX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pj-clinton&label=Profile%20views&color=0e75b6&style=flat" alt="pj-clinton" /> </p>
 
-- 🔭 I’m currently working on [my first project using the Vue.js framework.](https://github.com/pj-clinton/vue-first_project)
+- 🔭 I’m currently working on...
 
-- 🌱 I’m currently learning **Vue.js / Flask / deployment and database structure**
+- 🌱 I’m currently learning...
 
-- 👯 I’m looking to collaborate on **full-stack projects.**
+- 👯 I’m looking to collaborate on...
 
-- 🤝 I’m looking for help with **learning new skills.**
+- 🤝 I’m looking for help with...
 
 - 👨‍💻 All of my projects are available at [https://github.com/pj-clinton](https://github.com/pj-clinton)
 
-- 💬 Ask me about **Vue.js / Python**
+- 💬 Ask me about...
 
 - 📫 How to reach me **reachme@intheory.bulc.club**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pjclinton/](https://www.linkedin.com/in/pjclinton/)
 
-- ⚡ Fun fact **I think I am a decent hockey player.**
+- ⚡ A fun fact about me...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
