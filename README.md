@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with...
 
-- 👨‍💻 All of my projects are available at [https://github.com/pj-clinton](https://github.com/pj-clinton)
+- 👨‍💻 All of my projects are available at [https://github.com/pj-clinton](https://github.com/pclinton)
 
 - 💬 Ask me about...
 
