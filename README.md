@@ -28,4 +28,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pj-clinton&show_icons=true&locale=en&layout=compact" alt="pj-clinton" /></p>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pclinton/pclinton/blob/master/devcard.svg" width="400" alt="PJ Clinton's Dev Card"/></a>
+<a href="https://app.daily.dev/eggsBenny"><img src="https://github.com/pclinton/pclinton/blob/master/devcard.svg" width="400" alt="PJ Clinton's Dev Card"/></a>
