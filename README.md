@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm PJ Clinton</h1>
-<h3 align="center">A web developer based in Austin, TX.</h3>
+<h3 align="center">a software dev based in Austin, TX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pj-clinton&label=Profile%20views&color=0e75b6&style=flat" alt="pj-clinton" /> </p>
 
-- 🔭 I’m currently working on...
+- 🔭 I’m currently working on Google's Cybersecurity Certification.
 
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning how to leverage SIEM tools to discover and investigate cybersecurity threats.
 
-- 👯 I’m looking to collaborate on...
+- 👯 I’m looking to collaborate on any development of software and tools.
 
 - 🤝 I’m looking for help with...
 
 - 👨‍💻 All of my projects are available at [https://github.com/pj-clinton](https://github.com/pclinton)
 
-- 💬 Ask me about...
+- 💬 Ask me about my interests in cybersecurity. 
 
 - 📫 How to reach me **reachme@intheory.bulc.club**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pjclinton/](https://www.linkedin.com/in/pjclinton/)
 
-- ⚡ A fun fact about me...
+- ⚡ A fun fact about me is that I am the team captain of two different adult league ice hockey teams.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
