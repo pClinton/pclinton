@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PJ Clinton</h1>
-<h3 align="center">Software developer based in Austin, TX.</h3>
+<h3 align="center">Data Communications Specialist based in Austin, TX.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pj-clinton&label=Profile%20views&color=0e75b6&style=flat" alt="pj-clinton" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
